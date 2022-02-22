@@ -1,4 +1,5 @@
 
+
 | command | what does the command do |
 | ---- | ---- |
 | lsblk | list block devices. displaying avaiable block |
